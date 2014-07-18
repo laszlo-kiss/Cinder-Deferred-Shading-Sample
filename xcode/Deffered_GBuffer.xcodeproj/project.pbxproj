@@ -20,6 +20,11 @@
 		4FF2F67819785F550052D8E5 /* gPass.frag in Resources */ = {isa = PBXBuildFile; fileRef = 4FF2F67119785F550052D8E5 /* gPass.frag */; };
 		4FF2F67919785F550052D8E5 /* gPass.vert in Resources */ = {isa = PBXBuildFile; fileRef = 4FF2F67219785F550052D8E5 /* gPass.vert */; };
 		4FF2F67A19785F550052D8E5 /* rock.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FF2F67319785F550052D8E5 /* rock.png */; };
+		4FF2F67D197986F70052D8E5 /* rock_NRM.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FF2F67B197986F70052D8E5 /* rock_NRM.png */; };
+		4FF2F67E197986F70052D8E5 /* rock_SPEC.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FF2F67C197986F70052D8E5 /* rock_SPEC.png */; };
+		4FF2F68219798C500052D8E5 /* foil_DIFF.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4FF2F67F19798C500052D8E5 /* foil_DIFF.jpg */; };
+		4FF2F68319798C500052D8E5 /* foil_NRM.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FF2F68019798C500052D8E5 /* foil_NRM.png */; };
+		4FF2F68419798C500052D8E5 /* foil_SPEC.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FF2F68119798C500052D8E5 /* foil_SPEC.png */; };
 		5323E6B20EAFCA74003A9687 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5323E6B10EAFCA74003A9687 /* CoreVideo.framework */; };
 		5323E6B60EAFCA7E003A9687 /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5323E6B50EAFCA7E003A9687 /* QTKit.framework */; };
 		55FE9BCD2A744ED2AEA427D2 /* Deffered_GBufferApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78F1FF548AFA479D94CAF74F /* Deffered_GBufferApp.cpp */; };
@@ -48,6 +53,11 @@
 		4FF2F67119785F550052D8E5 /* gPass.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; name = gPass.frag; path = ../resources/gPass.frag; sourceTree = "<group>"; };
 		4FF2F67219785F550052D8E5 /* gPass.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; name = gPass.vert; path = ../resources/gPass.vert; sourceTree = "<group>"; };
 		4FF2F67319785F550052D8E5 /* rock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rock.png; path = ../resources/rock.png; sourceTree = "<group>"; };
+		4FF2F67B197986F70052D8E5 /* rock_NRM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rock_NRM.png; path = ../resources/rock_NRM.png; sourceTree = "<group>"; };
+		4FF2F67C197986F70052D8E5 /* rock_SPEC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rock_SPEC.png; path = ../resources/rock_SPEC.png; sourceTree = "<group>"; };
+		4FF2F67F19798C500052D8E5 /* foil_DIFF.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = foil_DIFF.jpg; path = ../resources/foil_DIFF.jpg; sourceTree = "<group>"; };
+		4FF2F68019798C500052D8E5 /* foil_NRM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = foil_NRM.png; path = ../resources/foil_NRM.png; sourceTree = "<group>"; };
+		4FF2F68119798C500052D8E5 /* foil_SPEC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = foil_SPEC.png; path = ../resources/foil_SPEC.png; sourceTree = "<group>"; };
 		5323E6B10EAFCA74003A9687 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = /System/Library/Frameworks/CoreVideo.framework; sourceTree = "<absolute>"; };
 		5323E6B50EAFCA7E003A9687 /* QTKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QTKit.framework; path = /System/Library/Frameworks/QTKit.framework; sourceTree = "<absolute>"; };
 		78F1FF548AFA479D94CAF74F /* Deffered_GBufferApp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.cpp; name = Deffered_GBufferApp.cpp; path = ../src/Deffered_GBufferApp.cpp; sourceTree = "<group>"; };
@@ -148,6 +158,11 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				4FF2F67F19798C500052D8E5 /* foil_DIFF.jpg */,
+				4FF2F68019798C500052D8E5 /* foil_NRM.png */,
+				4FF2F68119798C500052D8E5 /* foil_SPEC.png */,
+				4FF2F67B197986F70052D8E5 /* rock_NRM.png */,
+				4FF2F67C197986F70052D8E5 /* rock_SPEC.png */,
 				4FF2F66D19785F550052D8E5 /* debug.frag */,
 				4FF2F66E19785F550052D8E5 /* debug.vert */,
 				4FF2F66F19785F550052D8E5 /* gLightPass.frag */,
@@ -224,10 +239,15 @@
 			files = (
 				4FF2F67819785F550052D8E5 /* gPass.frag in Resources */,
 				4FF2F67919785F550052D8E5 /* gPass.vert in Resources */,
+				4FF2F68219798C500052D8E5 /* foil_DIFF.jpg in Resources */,
+				4FF2F68419798C500052D8E5 /* foil_SPEC.png in Resources */,
 				4FF2F67A19785F550052D8E5 /* rock.png in Resources */,
+				4FF2F67E197986F70052D8E5 /* rock_SPEC.png in Resources */,
+				4FF2F67D197986F70052D8E5 /* rock_NRM.png in Resources */,
 				4FF2F67519785F550052D8E5 /* debug.vert in Resources */,
 				6260775DAB414DAAAB220074 /* CinderApp.icns in Resources */,
 				4FF2F67419785F550052D8E5 /* debug.frag in Resources */,
+				4FF2F68319798C500052D8E5 /* foil_NRM.png in Resources */,
 				4FF2F67719785F550052D8E5 /* gLightPass.vert in Resources */,
 				4FF2F67619785F550052D8E5 /* gLightPass.frag in Resources */,
 			);

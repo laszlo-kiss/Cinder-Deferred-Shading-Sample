@@ -14,3 +14,9 @@
 #define LIGHT_FRAG			CINDER_RESOURCE( ../resources/, gLightPass.frag, 133, GLSL )
 
 #define ROCK                CINDER_RESOURCE( ../resources/, rock.png, 134, PNG )
+#define ROCK_NRM            CINDER_RESOURCE( ../resources/, rock_NRM.png, 135, PNG )
+#define ROCK_SPEC           CINDER_RESOURCE( ../resources/, rock_SPEC.png, 136, PNG )
+
+#define FOIL                CINDER_RESOURCE( ../resources/, foil_DIFF.jpg, 137, JPG )
+#define FOIL_NRM            CINDER_RESOURCE( ../resources/, foil_NRM.png, 138, PNG )
+#define FOIL_SPEC           CINDER_RESOURCE( ../resources/, foil_SPEC.png, 139, PNG )

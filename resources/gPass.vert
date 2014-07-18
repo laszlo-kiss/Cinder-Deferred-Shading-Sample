@@ -12,12 +12,10 @@ uniform mat4 ciInverseViewMatrix;
 
 uniform float uSpecular;
 
-uniform sampler2D diffuseMap;
-
 out vec4 wcPosition;
 out vec3 wcNormal;
-out vec3 diffuse;
 out float specular;
+out vec2 texCoord;
 
 void main(){
     
@@ -36,8 +34,8 @@ void main(){
     wcNormal = ciNormalMatrix * norm;
     wcNormal = mat3(ciInverseViewMatrix) * wcNormal;
     
-    diffuse = texture( diffuseMap, ciTexCoord ).rgb;
     specular = uSpecular;
+    texCoord = ciTexCoord;
     
     gl_Position = ciModelViewProjectionMatrix * vec4(pos, 1.0);
 }

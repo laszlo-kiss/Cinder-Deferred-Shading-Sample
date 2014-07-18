@@ -85,7 +85,7 @@ class Deffered_GBufferApp : public AppNative {
     gl::VaoRef      mVao;
     gl::VboRef      mPositions, mTexCoords, mNormals, mElements;
     
-    gl::TextureRef  mDiffuseMap;
+    gl::TextureRef  mDiffuseMap, mNormalMap, mSpecularMap;
     
     gl::VaoRef      mQuadVao;
     gl::VboRef      mQuadPos, mQuadTexCoord, mQuadElements;
@@ -122,7 +122,7 @@ void Deffered_GBufferApp::setup()
     format.attachment( GL_COLOR_ATTACHMENT0, GL_RGBA32F, "wcPositions");
     format.attachment( GL_COLOR_ATTACHMENT1, GL_RGBA32F, "wcNormals");
     format.attachment( GL_COLOR_ATTACHMENT2, GL_RGBA32F, "DiffuseSpecular");
-    
+
     mGBuffer = GBuffer::create(getWindowWidth(), getWindowHeight(), format );
     
     gl::GlslProg::Format gPassFormat;
@@ -177,11 +177,15 @@ void Deffered_GBufferApp::update()
         gl::ScopedGlslProg GPass( mGPass );
         gl::setDefaultShaderVars();
         
-        gl::ScopedTextureBind tex( mDiffuseMap, 0 );
-        
+        gl::ScopedTextureBind tex1( mDiffuseMap, 0 );
+        gl::ScopedTextureBind tex2( mNormalMap, 1 );
+        gl::ScopedTextureBind tex3( mSpecularMap, 2 );
+
         mGPass->uniform("uSpecular", 128.f);
         mGPass->uniform("diffuseMap", 0);
-        
+        mGPass->uniform("normalMap", 1);
+        mGPass->uniform("specularMap", 2);
+
         glDrawElementsInstanced(GL_TRIANGLES, mTeapotMesh->getNumIndices(), GL_UNSIGNED_INT, 0, 2560);
         
         //draw teapots where the lights are
@@ -415,9 +419,11 @@ void Deffered_GBufferApp::initTeapot(){
         }
     }
     
-    ///texture for the teapots
+    ///textures for the teapots
     
-    mDiffuseMap = gl::Texture::create(loadImage(loadResource(ROCK)));
+    mDiffuseMap = gl::Texture::create(loadImage(loadResource(FOIL)));
+    mNormalMap = gl::Texture::create(loadImage(loadResource(FOIL_NRM)));
+    mSpecularMap = gl::Texture::create(loadImage(loadResource(FOIL_SPEC)));
 
 }
 

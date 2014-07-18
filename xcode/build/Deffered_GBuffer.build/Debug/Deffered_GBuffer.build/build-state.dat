@@ -5,15 +5,20 @@ cCheck dependencies
 cProcessInfoPlistFile /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Info.plist /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Info.plist
 cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag
 cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert
+cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg
+cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png
 cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png
+cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png
+cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png
 cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert
 cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns build/Debug/Deffered_GBuffer.app/Contents/Resources/CinderApp.icns
 cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.frag
+cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png
 cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert
 cCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag
 cProcessPCH++ /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i386
 cTouch /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app
 
@@ -848,9 +853,9 @@ t1401641375
 s4844368
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/include/Resources.h
-c0000000053C827F800000000000002B4
-t1405626360
-s692
+c0000000053C954FE0000000000000460
+t1405703422
+s1120
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns
 c0000000053C7ED270000000000070375
@@ -867,10 +872,25 @@ c0000000053C453F10000000000000100
 t1405375473
 s256
 
+N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg
+c000000005341D0F500000000000A34B1
+t1396822261
+s668849
+
+N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png
+c000000005341D1D20000000000230EAC
+t1396822482
+s2297516
+
+N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png
+c000000005341D23000000000001DDAE5
+t1396822576
+s1956581
+
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag
-c0000000053C6AA0B0000000000000B82
-t1405528587
-s2946
+c0000000053C9562B0000000000000BF2
+t1405703723
+s3058
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert
 c0000000053C48A3A000000000000011A
@@ -878,24 +898,34 @@ t1405389370
 s282
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag
-c0000000053C82CF20000000000000160
-t1405627634
-s352
+c0000000053C955EC00000000000004BC
+t1405703660
+s1212
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert
-c0000000053C567A000000000000003DC
-t1405446048
-s988
+c0000000053C9545800000000000003A4
+t1405703256
+s932
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png
 c0000000053443D3000000000001EB088
 t1396981040
 s2011272
 
+N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png
+c0000000053443DA200000000000FBEB7
+t1396981154
+s1031863
+
+N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png
+c0000000053443DA800000000000C8FAE
+t1396981160
+s823214
+
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp
-c0000000053C849160000000000003B63
-t1405634838
-s15203
+c0000000053C9550E0000000000003CC0
+t1405703438
+s15552
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Deffered_GBuffer_Prefix.pch
 c0000000053C7ED27000000000000012D
@@ -918,7 +948,7 @@ t1405611303
 s1122
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app
-t1405633122
+t1405703660
 s102
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Info.plist
@@ -926,8 +956,8 @@ t1405626185
 s1508
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer
-t1405634844
-s5172232
+t1405703444
+s5172244
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/PkgInfo
 t1405626185
@@ -945,25 +975,45 @@ N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/De
 t1405626360
 s256
 
+N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg
+t1405703438
+s668849
+
+N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png
+t1405703438
+s2297516
+
+N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png
+t1405703438
+s1956581
+
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag
-t1405626360
-s2946
+t1405703723
+s3058
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert
 t1405626360
 s282
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag
-t1405627634
-s352
+t1405703660
+s1212
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert
-t1405626360
-s988
+t1405703256
+s932
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png
 t1405626360
 s2011272
+
+N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png
+t1405702757
+s1031863
+
+N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png
+t1405702757
+s823214
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBuffer.LinkFileList
 c0000000053C7FDDC000000000000013E
@@ -971,8 +1021,8 @@ t1405615580
 s318
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o
-t1405634840
-s3541204
+t1405703440
+s3548276
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o
 t1405627635
@@ -5160,11 +5210,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies40a48f968078b941^889f93968078b941^---0#1#1#--18"Check dependencies36"655B3902-8DB8-4EC7-8E4A-6A28BCF0C9B0-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5dbf88ab8d79b941^c55589ab8d79b941^---0#1#1#--18"Check dependencies36"3FCE8D51-4EC1-4540-8319-C628DDE54A79-
 
 CCompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s427327638.573396
-e427327640.739405
+s427396238.389602
+e427396240.695913
 r1
 xCompileC
 xbuild/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o
@@ -5190,8 +5240,8 @@ d/Users/destructor/Documents/cinderGameEngine/include/cinder/Perlin.h
 d/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.h
 d/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/include/Resources.h
 d/Users/destructor/Documents/cinderGameEngine/include/cinder/CinderResources.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp255"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler62db92968078b941^3962bd988078b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp0000000000000000^3477"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-generated-files.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-own-target-headers.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-project-headers.hmap -iquote../../../cinderGameEngine/include -iquote../include -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/include -I../../../cinderGameEngine/boost -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -include /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch -MMD -MT dependencies -MF /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.d --serialize-diagnostics /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.dia -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o36"9A07EEEF-6BD8-43C2-B9DB-000CB90AC6E3-
-b6E855849-4F5E-4B7A-8878-EB5208F44607
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp255"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler0fd6638e8c79b941^8d27b2908c79b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp0000000000000000^3477"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-generated-files.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-own-target-headers.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-project-headers.hmap -iquote../../../cinderGameEngine/include -iquote../include -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/include -I../../../cinderGameEngine/boost -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -include /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch -MMD -MT dependencies -MF /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.d --serialize-diagnostics /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.dia -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o36"9BBB3385-CF1C-43B5-B8EB-C3A731C38BE0-
+b9964A4F9-BA44-4DD7-8408-7791F68B1C47
 
 CCompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s427320434.512324
@@ -5240,15 +5290,45 @@ xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vertf9f5a3785f78b941^4ca4a4785f78b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert003474f9ddffdf42^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"31C8D4A4-6BC7-4575-B7AA-58BA99E502D3-
 b39292C20-3E07-45E4-8D20-8936CF3C3AFE
 
+CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg
+s427396238.369446
+e427396238.372462
+r1
+xCpResource
+x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg
+xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg159"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg76a45e8e8c79b941^755a5f8e8c79b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg003474f9ddffdf42^544"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"6A66065D-5EA1-46F9-8594-DC2FC83B5A37-
+b9964A4F9-BA44-4DD7-8408-7791F68B1C47
+
+CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png
+s427396238.370714
+e427396238.373574
+r1
+xCpResource
+x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png
+xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png157"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png3cf75e8e8c79b941^87a35f8e8c79b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png003474f9ddffdf42^541"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"E955D822-3EBA-4DBA-8406-60DDBC318D2D-
+b9964A4F9-BA44-4DD7-8408-7791F68B1C47
+
+CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png
+s427396238.369527
+e427396238.373416
+r1
+xCpResource
+x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png
+xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png159"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png7ba35e8e8c79b941^85985f8e8c79b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png003474f9ddffdf42^544"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"F29E5249-4C1B-453E-93E8-6C083F7C9F56-
+b9964A4F9-BA44-4DD7-8408-7791F68B1C47
+
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag
-s427319160.641441
-e427319160.642251
+s427396523.536850
+e427396523.537659
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag163"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.fragd443a4785f78b941^b8aea4785f78b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag003474f9ddffdf42^550"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"97776FE3-098D-45C0-A080-146EAD7BA296-
-b39292C20-3E07-45E4-8D20-8936CF3C3AFE
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag163"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.fragfb7789ab8d79b941^734c8eab8d79b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag0000000000000000^550"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"130C2C2B-AE41-4FF7-812F-EB5F753A3219-
+b0A3413A5-63F7-4880-A9AB-90899813D131
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert
 s427319160.641154
@@ -5261,24 +5341,24 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy bu
 b39292C20-3E07-45E4-8D20-8936CF3C3AFE
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag
-s427320434.497104
-e427320434.498098
+s427396460.880621
+e427396460.881646
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag8f507f726478b941^8d0d85726478b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag0000000000000000^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"BE013EDC-9381-474E-BAA0-CFCB9A4A5301-
-b12860C8B-387D-4F97-93F6-A027DA9A3D10
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag357ae16c8d79b941^b398e46c8d79b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag0000000000000000^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"B2D1E2B1-9AAC-4BAE-B91F-7B6E24A4B0EA-
+bC3D4E899-FBE1-422E-B2A0-54A83B278CA9
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert
-s427319160.639691
-e427319160.640819
+s427396056.115979
+e427396056.116945
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert6fd3a3785f78b941^7ba1a4785f78b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert003474f9ddffdf42^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"817D4C8F-5D50-4085-964E-1157052F2894-
-b39292C20-3E07-45E4-8D20-8936CF3C3AFE
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert51bd1dd88b79b941^c44023d88b79b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert0000000000000000^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"3FA0041F-5F3A-46D2-9C2A-0BC55AB5A726-
+bCADD46DA-4390-47B8-8A0A-F2A7758C62EB
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png
 s427319160.639814
@@ -5290,9 +5370,29 @@ xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png149"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png73daa3785f78b941^7db0a4785f78b941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png003474f9ddffdf42^529"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"9A3BB66D-0C19-4E8D-B381-092154277BD6-
 b39292C20-3E07-45E4-8D20-8936CF3C3AFE
 
+CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png
+s427395557.849228
+e427395557.850819
+r1
+xCpResource
+x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png
+xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png157"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png8577d9e58979b941^fc19dae58979b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png003474f9ddffdf42^541"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"4AE66030-0CD3-4A87-918B-D78CA89C7C1E-
+bF47FFA5A-37D8-44F5-8949-76498E0804F2
+
+CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png
+s427395557.848968
+e427395557.850509
+r1
+xCpResource
+x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png
+xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png159"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png1c5dd9e58979b941^5918dae58979b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png003474f9ddffdf42^544"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"A966954E-5BA7-4209-B845-92F9D9F10E99-
+bF47FFA5A-37D8-44F5-8949-76498E0804F2
+
 CLd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i386
-s427327640.741203
-e427327644.492667
+s427396240.697679
+e427396244.368798
 r1
 xLd
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer
@@ -5315,11 +5415,13 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
@@ -5349,13 +5451,11 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
@@ -5377,8 +5477,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer79"Ld build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i38642ccbd988078b941^d11f7e9c8078b941^---0#0#1#--1359"Ld build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i386    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -filelist /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBuffer.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinderGameEngine/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBuffer_dependency_info.dat -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer36"0CC73446-26D2-4FC4-A85A-B839C64C5A19-
-b6E855849-4F5E-4B7A-8878-EB5208F44607
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer79"Ld build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i3869ca7b2908c79b941^556a5e948c79b941^---0#0#1#--1359"Ld build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i386    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -filelist /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBuffer.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinderGameEngine/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBuffer_dependency_info.dat -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer36"458DE2FE-A336-4250-BF18-3DC9EFAC7FC5-
+b9964A4F9-BA44-4DD7-8408-7791F68B1C47
 
 CProcessInfoPlistFile /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Info.plist /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Info.plist
 s427318985.897628
@@ -7065,11 +7165,11 @@ lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Precom
 bA36318CF-F041-41CB-B059-6C32E417CA88
 
 CTouch /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app
-s427327644.493610
-e427327644.496870
+s427396523.551188
+e427396523.555672
 r1
 xTouch
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Touch /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app38"Touch build/Debug/Deffered_GBuffer.app7b697e9c8078b941^db337f9c8078b941^---0#0#1#--231"Touch build/Debug/Deffered_GBuffer.app    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app36"F34A88F5-3016-4A52-91C6-62DB597EC8A3-
-b6E855849-4F5E-4B7A-8878-EB5208F44607
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Touch /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app38"Touch build/Debug/Deffered_GBuffer.app302a8dab8d79b941^d8828eab8d79b941^---0#0#1#--231"Touch build/Debug/Deffered_GBuffer.app    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app36"408D2AF9-FCDE-4FDA-97FE-02EDE7EC0EC4-
+b0A3413A5-63F7-4880-A9AB-90899813D131
 
