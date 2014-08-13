@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E1F2BF97-F70E-482F-AA52-6633046AEEE1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Deffered_GBuffer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BBFAA834-01C0-48D6-96F7-FAE0F3751B2B</key>
+		<string>https://github.com/m1keall1son/GBuffer_deferred_shading.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>xcode/Deffered_GBuffer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BBFAA834-01C0-48D6-96F7-FAE0F3751B2B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/m1keall1son/GBuffer_deferred_shading.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BBFAA834-01C0-48D6-96F7-FAE0F3751B2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BBFAA834-01C0-48D6-96F7-FAE0F3751B2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Deffered_GBuffer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

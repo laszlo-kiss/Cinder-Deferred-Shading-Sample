@@ -19,19 +19,26 @@ out vec2 texCoord;
 
 void main(){
     
-    float id = gl_InstanceID;
-    float gridPosx = mod( id ,9.);
-    float gridPosy = (id + gridPosx) / 8.;
-    
     vec3 pos = ciPosition;
+    
+    //position instanced teapots without using attribute matricies
+    float id = gl_InstanceID;
+    float gridPosx = mod( id ,25.);
+    float gridPosy = (id + gridPosx) / 25.;
     
     pos.x += gridPosx*10.;
     pos.z -= gridPosy*10.;
     
+    //teapot scale
+    pos *= 3.;
+    
+    //world space position
     wcPosition = ciModelMatrix * vec4(pos, 1.0);
     
     vec3 norm = ciNormal;
+    //worldView space
     wcNormal = ciNormalMatrix * norm;
+    //remove viewspace for world space
     wcNormal = mat3(ciInverseViewMatrix) * wcNormal;
     
     specular = uSpecular;

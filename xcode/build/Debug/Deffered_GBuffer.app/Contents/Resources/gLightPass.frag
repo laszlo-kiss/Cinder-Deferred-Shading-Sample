@@ -30,7 +30,7 @@ vec3 sunContribution( in vec3 Position, in vec3 Normal, in vec3 Diffuse, in floa
     vec3 v = normalize( -Position );
     vec3 h = normalize( v + s );
     return light.intensity * ( light.diffuse * max( dot(s, n), 0.0 ) * Diffuse  +
-                               light.specular * pow( max(dot(h,n),0.0), spec_power ) * spec_map
+                               light.specular * pow( max(dot(h,n),0.0), spec_power ) 
                               );
 }
 
@@ -42,8 +42,8 @@ vec3 ads( in vec3 Position, in vec3 Normal, in vec3 Diffuse, in float spec_power
     vec3 h = normalize( v + s );
     float dist = length( d );
     return light.intensity * ( light.diffuse * max( dot(s, n), 0.0 ) * Diffuse  +
-                               light.specular * pow( max(dot(h,n),0.0), spec_power ) * spec_map
-                              ) * ( 1. / ( .02 * ( dist + pow(dist, 2.) ) ) );
+                               light.specular * pow( max(dot(h,n),0.0), spec_power )
+                              ) * ( 1. / ( .0002 * ( dist + pow(dist, 2.) ) ) );
 }
 
 void main(){

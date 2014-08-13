@@ -108,6 +108,7 @@ void Deffered_GBufferApp::keyDown(cinder::app::KeyEvent event){
 void Deffered_GBufferApp::prepareSettings(cinder::app::AppBasic::Settings *settings){
     //settings->setWindowSize(1024, 768);
     settings->setFullScreen();
+    
 }
 
 void Deffered_GBufferApp::setup()
@@ -147,6 +148,8 @@ void Deffered_GBufferApp::setup()
     
     mCam.setPerspective(50, getWindowAspectRatio(), .1, 10000);
     mCam.lookAt(Vec3f(40,10,100),Vec3f(40,10,-80),Vec3f::yAxis());
+    
+    gl::enableVerticalSync();
 
 }
 
@@ -185,13 +188,13 @@ void Deffered_GBufferApp::update()
         mGPass->uniform("diffuseMap", 0);
         mGPass->uniform("normalMap", 1);
         mGPass->uniform("specularMap", 2);
-
-        glDrawElementsInstanced(GL_TRIANGLES, mTeapotMesh->getNumIndices(), GL_UNSIGNED_INT, 0, 2560);
+            
+        glDrawElementsInstanced(GL_TRIANGLES, mTeapotMesh->getNumIndices(), GL_UNSIGNED_INT, 0,1000);
         
         //draw teapots where the lights are
         for(Light l : lights){
             gl::pushMatrices();
-            gl::translate(l.position);
+            gl::translate(l.position.x, l.position.y+5, l.position.z);
             gl::setDefaultShaderVars();
             gl::drawElements(GL_TRIANGLES, mTeapotMesh->getNumIndices(), GL_UNSIGNED_INT, 0);
             gl::popMatrices();
@@ -241,9 +244,10 @@ void Deffered_GBufferApp::update()
         gl::setDefaultShaderVars();
         
         for(int i=0;i<lights.size();i++){
-            lights[i].position = perlin.dnoise(i+getElapsedSeconds()/10., i+getElapsedSeconds()/10., i+getElapsedSeconds()/10.)*80 + Vec3f(40.,10.,-80.);
-            lights[i].position.y = 3.f;
+            lights[i].position = perlin.dnoise(i+getElapsedSeconds()/30., i+getElapsedSeconds()/30., i+getElapsedSeconds()/30.)*220 + Vec3f(300.,10.,-200.);
+            lights[i].position.y = 15.f;
             lights[i].position.z *= 5.f;
+            lights[i].position += .00000000001;
             lights[i].bind();
         }
         
@@ -257,13 +261,12 @@ void Deffered_GBufferApp::update()
     mLightTarget->unbindFramebuffer();
     
     //rotate the camera around
-    mCam.setEyePoint(Vec3f( 100*cos(toRadians((float)getElapsedSeconds())), 25., 100*sin(toRadians((float)getElapsedFrames())) ) );
-    mCam.setCenterOfInterestPoint(Vec3f(40,10,-80));
+    mCam.setEyePoint(Vec3f( 300+100*cos( getElapsedSeconds()*.2), sin( getElapsedSeconds()*.2 )*50.f+10.f, 600*sin( getElapsedSeconds()*.2) - 500) );
+    mCam.setCenterOfInterestPoint(Vec3f(500.,10.,-1000.));
     
-//    WindowRef w = getWindow();
-//    w->setTitle(to_string(getAverageFps()));
+    WindowRef w = getWindow();
+    w->setTitle(to_string(getAverageFps()));
 
-    
 }
 
 void Deffered_GBufferApp::draw()
@@ -299,7 +302,7 @@ void Deffered_GBufferApp::drawDebug(){
     
     //see world cordinate vertex positions
     gl::pushMatrices();
-    gl::scale(.25, .25);
+    gl::scale(.5, .5);
     gl::setDefaultShaderVars();
     mGBuffer->bindTexture(0,"wcPositions");
     gl::drawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
@@ -307,8 +310,8 @@ void Deffered_GBufferApp::drawDebug(){
     
     //see normals
     gl::pushMatrices();
-    gl::translate(Vec2f(getWindowWidth()/4, 0));
-    gl::scale(.25, .25);
+    gl::translate(Vec2f(getWindowWidth()/2, 0));
+    gl::scale(.5, .5);
     gl::setDefaultShaderVars();
     mGBuffer->bindTexture(0,"wcNormals");
     gl::drawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
@@ -316,8 +319,8 @@ void Deffered_GBufferApp::drawDebug(){
     
     //see diffuse texture color
     gl::pushMatrices();
-    gl::translate(Vec2f(getWindowWidth()/2,0));
-    gl::scale(.25, .25);
+    gl::translate(Vec2f(0,getWindowHeight()/2));
+    gl::scale(.5, .5);
     gl::setDefaultShaderVars();
     mGBuffer->bindTexture(0,"DiffuseSpecular");
     gl::drawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
@@ -325,8 +328,8 @@ void Deffered_GBufferApp::drawDebug(){
     
     //see depth buffer
     gl::pushMatrices();
-    gl::translate(Vec2f((getWindowWidth()/4)*3, 0));
-    gl::scale(.25, .25);
+    gl::translate(Vec2f(getWindowWidth()/2, getWindowHeight()/2));
+    gl::scale(.5, .5);
     gl::setDefaultShaderVars();
     mGBuffer->bindDepthTexture(0);
     gl::drawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
@@ -421,7 +424,7 @@ void Deffered_GBufferApp::initTeapot(){
     
     ///textures for the teapots
     
-    mDiffuseMap = gl::Texture::create(loadImage(loadResource(FOIL)));
+    mDiffuseMap = gl::Texture::create(loadImage(loadResource(ROCK)));
     mNormalMap = gl::Texture::create(loadImage(loadResource(FOIL_NRM)));
     mSpecularMap = gl::Texture::create(loadImage(loadResource(FOIL_SPEC)));
 
@@ -435,7 +438,8 @@ void Deffered_GBufferApp::initLights(){
     lightAccumulator.disableDepth();
     lightAccumulator.colorTexture();
     lightAccumulator.setColorBufferInternalFormat(GL_RGBA32F);
-    lightAccumulator.setSamples(8);
+    lightAccumulator.setSamples(16);
+    
     // lightAccumulator.stencilBuffer();
     
     mLightTarget = gl::Fbo::create(getWindowWidth(), getWindowHeight(), lightAccumulator);
@@ -454,7 +458,7 @@ void Deffered_GBufferApp::initLights(){
     
     ///create Lights and scene settings
     
-    int grid = 7;
+    int grid = 6;
     lights.resize(grid*grid);
     for( int x=0;x<grid;x++ ){
         for(int y =0;y<grid;y++){
@@ -469,7 +473,7 @@ void Deffered_GBufferApp::initLights(){
     
     mSun = Sun( Vec3f(1000,1000,-5000), Color(1.,1.,.9), Color(1.,1.,.9), 1. );
     
-    mGlobalAmbient = Color(.16,.16,.16);
+    mGlobalAmbient = Color(.05,.05,.05);
 
 }
 

@@ -30,7 +30,7 @@ vec3 sunContribution( in vec3 Position, in vec3 Normal, in vec3 Diffuse, in floa
     vec3 v = normalize( -Position );
     vec3 h = normalize( v + s );
     return light.intensity * ( light.diffuse * max( dot(s, n), 0.0 ) * Diffuse  +
-                               light.specular * pow( max(dot(h,n),0.0), spec_power ) * spec_map
+                               light.specular * pow( max(dot(h,n),0.0), spec_power ) 
                               );
 }
 
@@ -42,8 +42,8 @@ vec3 ads( in vec3 Position, in vec3 Normal, in vec3 Diffuse, in float spec_power
     vec3 h = normalize( v + s );
     float dist = length( d );
     return light.intensity * ( light.diffuse * max( dot(s, n), 0.0 ) * Diffuse  +
-                               light.specular * pow( max(dot(h,n),0.0), spec_power ) * spec_map
-                              ) * ( 1. / ( .02 * ( dist + pow(dist, 2.) ) ) );
+                               light.specular * pow( max(dot(h,n),0.0), spec_power )
+                              ) * ( 1. / ( .0002 * ( dist + pow(dist, 2.) ) ) );
 }
 
 void main(){
@@ -57,26 +57,12 @@ void main(){
         
         for(int i=0;i<numLights;i++){
             
-            //        float d = length(lights[i].position - wcPosition.xyz);
-            //
-            //        if( d > maxes[0] && d > maxes[1] && d > maxes[2] ){
-            //            maxes[2] = d;
-            //            maxind[2] = i;
-            //        }else if( d > maxes[0] && d > maxes[1] && d < maxes[2] ){
-            //            maxes[1] = d;
-            //            maxind[1] = i;
-            //        }else if( d > maxes[0] && d < maxes[1] && d < maxes[2] ){
-            //            maxes[0] = d;
-            //            maxind[0] = i;
-            //        }
             FragColor.rgb += ads( wcPosition.xyz, wcNormal.xyz, diffSpec.rgb, diffSpec.a, wcNormal.a, lights[i] );
             
         }
         
         FragColor.rgb += sunContribution( wcPosition.xyz, wcNormal.xyz, diffSpec.rgb, diffSpec.a, wcNormal.a, Sun );
         FragColor.rgb += GlobalAmbient;
-        //    FragColor.rgb += ads( wcPosition.xyz, wcNormal, diffSpec.rgb, diffSpec.a, lights[maxind[1]], maxes[1] );
-        //    FragColor.rgb += ads( wcPosition.xyz, wcNormal, diffSpec.rgb, diffSpec.a, lights[maxind[2]], maxes[2] );
         FragColor.a = 1.;
         
     }else{

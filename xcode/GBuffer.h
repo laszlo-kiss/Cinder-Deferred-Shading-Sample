@@ -40,8 +40,9 @@ public:
         
         Format(){
         
+            //This should be optimized 
             mFboFormat.setDepthBufferInternalFormat(GL_DEPTH_COMPONENT32);
-            mFboFormat.setSamples(16);
+            mFboFormat.setSamples(0);
             mFboFormat.enableDepthTexture();
             mAttachments.clear();
         

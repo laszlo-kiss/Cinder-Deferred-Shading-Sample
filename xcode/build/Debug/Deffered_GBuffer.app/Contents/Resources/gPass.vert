@@ -20,13 +20,14 @@ out vec2 texCoord;
 void main(){
     
     float id = gl_InstanceID;
-    float gridPosx = mod( id ,9.);
-    float gridPosy = (id + gridPosx) / 8.;
+    float gridPosx = mod( id ,25.);
+    float gridPosy = (id + gridPosx) / 25.;
     
     vec3 pos = ciPosition;
     
     pos.x += gridPosx*10.;
     pos.z -= gridPosy*10.;
+    pos *= 3.;
     
     wcPosition = ciModelMatrix * vec4(pos, 1.0);
     

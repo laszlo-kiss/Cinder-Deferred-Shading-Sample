@@ -412,426 +412,6 @@ c00000000535EB9D10000000000001770
 t1398716881
 s6000
 
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
-c00000000537713690000000000003498
-t1400312681
-s13464
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
-c0000000053895993000000000001D710
-t1401510291
-s120592
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
-c00000000538959930000000000020A90
-t1401510291
-s133776
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
-c00000000538959930000000000079FA4
-t1401510291
-s499620
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLinearAlgebra.dylib
-c00000000538959930000000000005940
-t1401510291
-s22848
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
-c00000000538959930000000000013BD8
-t1401510291
-s80856
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
-c00000000538959930000000000014AA0
-t1401510291
-s84640
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
-c00000000538959930000000000003600
-t1401510291
-s13824
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-c00000000538959930000000000116654
-t1401510291
-s1140308
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-c00000000538959940000000000007AE0
-t1401510292
-s31456
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
-c00000000538959940000000000016A18
-t1401510292
-s92696
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
-c00000000538959940000000000013004
-t1401510292
-s77828
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
-c000000005389599400000000000246B8
-t1401510292
-s149176
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
-c00000000538959940000000000008A24
-t1401510292
-s35364
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
-c0000000053895994000000000001FEF4
-t1401510292
-s130804
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
-c00000000538959940000000000021240
-t1401510292
-s135744
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
-c0000000053895994000000000000C730
-t1401510292
-s50992
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c00000000538959940000000000018374
-t1401510292
-s99188
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
-c00000000537EE09700000000000048F4
-t1400823959
-s18676
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-c0000000053895994000000000006172C
-t1401510292
-s399148
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
-c00000000536EBABC0000000000002488
-t1399765692
-s9352
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
-c00000000538959950000000000008544
-t1401510293
-s34116
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreData.framework/CoreData
-c00000000538959950000000000012C9C
-t1401510293
-s76956
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c000000005389599600000000000681A0
-t1401510294
-s426400
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000005389599600000000000AACF8
-t1401510294
-s699640
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
-c00000000538959960000000000009624
-t1401510294
-s38436
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
-c000000005389599600000000000140E8
-t1401510294
-s82152
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
-c00000000538959960000000000057060
-t1401510294
-s356448
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-c0000000053895997000000000000E1F4
-t1401510295
-s57844
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/FSEvents
-c00000000538959970000000000004A78
-t1401510295
-s19064
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
-c000000005389599700000000000378C0
-t1401510295
-s227520
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
-c0000000053895997000000000002B1E0
-t1401510295
-s176608
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
-c00000000538959970000000000024340
-t1401510295
-s148288
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
-c00000000538959970000000000011CA4
-t1401510295
-s72868
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-c00000000538959970000000000023288
-t1401510295
-s144008
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-c000000005389599700000000000136D0
-t1401510295
-s79568
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000538959970000000000072960
-t1401510295
-s469344
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
-c0000000053895999000000000003B8B0
-t1401510297
-s243888
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
-c000000005389599E0000000000007F68
-t1401510302
-s32616
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
-c000000005389599E0000000000020C6C
-t1401510302
-s134252
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
-c000000005389599E0000000000004670
-t1401510302
-s18032
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/QTKit.framework/QTKit
-c00000000538959A00000000000041B30
-t1401510304
-s269104
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/UIFoundation
-c00000000538959C5000000000001EC84
-t1401510341
-s126084
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/crt1.10.6.o
-c00000000536E95E000000000000022B0
-t1399756256
-s8880
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/libSystem.dylib
-c000000005380524B0000000000004C4C
-t1400918603
-s19532
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/libc++.dylib
-c00000000538959EE0000000000064660
-t1401510382
-s411232
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/libextension.dylib
-c00000000538959F00000000000004504
-t1401510384
-s17668
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/libobjc.A.dylib
-c00000000538959F2000000000000F9C8
-t1401510386
-s63944
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libcache.dylib
-c00000000538959F400000000000041DC
-t1401510388
-s16860
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libcommonCrypto.dylib
-c00000000538959F4000000000000BD14
-t1401510388
-s48404
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libcompiler_rt.dylib
-c00000000538959F4000000000000E200
-t1401510388
-s57856
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libcopyfile.dylib
-c00000000538959F40000000000004498
-t1401510388
-s17560
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libcorecrypto.dylib
-c00000000538959F4000000000000E268
-t1401510388
-s57960
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libdispatch.dylib
-c00000000538959F4000000000000B7A0
-t1401510388
-s47008
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libdyld.dylib
-c00000000538959F40000000000004D18
-t1401510388
-s19736
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libkeymgr.dylib
-c00000000536E96AD0000000000002C20
-t1399756461
-s11296
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/liblaunch.dylib
-c00000000538959F400000000000082D4
-t1401510388
-s33492
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libmacho.dylib
-c00000000538959F40000000000005D88
-t1401510388
-s23944
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libquarantine.dylib
-c00000000538959F400000000000049B8
-t1401510388
-s18872
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libremovefile.dylib
-c00000000538959F40000000000002DE4
-t1401510388
-s11748
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_asl.dylib
-c00000000538959F4000000000000A3E0
-t1401510388
-s41952
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_blocks.dylib
-c00000000538959F40000000000002C34
-t1401510388
-s11316
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_c.dylib
-c00000000538959F40000000000023BB8
-t1401510388
-s146360
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_configuration.dylib
-c00000000538959F400000000000044BC
-t1401510388
-s17596
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_coreservices.dylib
-c00000000538959F40000000000003EA0
-t1401510388
-s16032
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_coretls.dylib
-c00000000538959F40000000000006630
-t1401510388
-s26160
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_dnssd.dylib
-c00000000538959F40000000000005F84
-t1401510388
-s24452
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_info.dylib
-c00000000538959F40000000000012284
-t1401510388
-s74372
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_kernel.dylib
-c00000000538959F4000000000001C6AC
-t1401510388
-s116396
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_m.dylib
-c00000000538959F4000000000000FF28
-t1401510388
-s65320
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_malloc.dylib
-c00000000538959F40000000000006864
-t1401510388
-s26724
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_network.dylib
-c00000000538959F4000000000000F194
-t1401510388
-s61844
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_networkextension.dylib
-c00000000538959F40000000000005EB8
-t1401510388
-s24248
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_notify.dylib
-c00000000537457910000000000006B98
-t1400133521
-s27544
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_platform.dylib
-c00000000538959F5000000000000678C
-t1401510389
-s26508
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_pthread.dylib
-c00000000538959F500000000000085A8
-t1401510389
-s34216
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_sandbox.dylib
-c00000000538959F50000000000005D1C
-t1401510389
-s23836
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_secinit.dylib
-c00000000538959F50000000000003EBC
-t1401510389
-s16060
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libsystem_trace.dylib
-c00000000538959F50000000000006268
-t1401510389
-s25192
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libunc.dylib
-c00000000538959F50000000000003FB8
-t1401510389
-s16312
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libunwind.dylib
-c00000000538959F500000000000062DC
-t1401510389
-s25308
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/lib/system/libxpc.dylib
-c00000000538959F50000000000014E90
-t1401510389
-s85648
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/6.0/lib/darwin/libclang_rt.eprintf.a
-c000000005383ED980000000000000738
-t1401154968
-s1848
-
-N/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/6.0/lib/darwin/libclang_rt.osx.a
-c0000000053895E0D000000000000255C
-t1401511437
-s9564
-
 N/System/Library/Frameworks/Cocoa.framework/Cocoa
 c0000000052C458CA00000000000066C0
 t1388599498
@@ -873,24 +453,24 @@ t1405375473
 s256
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg
-c000000005341D0F500000000000A34B1
-t1396822261
-s668849
+c0000000053EA6A1B0000000000029B19
+t1407871515
+s170777
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png
-c000000005341D1D20000000000230EAC
-t1396822482
-s2297516
+c0000000053EA6A400000000000025253
+t1407871552
+s152147
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png
-c000000005341D23000000000001DDAE5
-t1396822576
-s1956581
+c0000000053EA6A34000000000001E24F
+t1407871540
+s123471
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag
-c0000000053C9562B0000000000000BF2
-t1405703723
-s3058
+c0000000053EA73000000000000000BDF
+t1407873792
+s3039
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert
 c0000000053C48A3A000000000000011A
@@ -898,34 +478,34 @@ t1405389370
 s282
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag
-c0000000053C955EC00000000000004BC
-t1405703660
-s1212
+c0000000053EA72CD0000000000000468
+t1407873741
+s1128
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert
-c0000000053C9545800000000000003A4
-t1405703256
-s932
+c0000000053EA6E8100000000000003B5
+t1407872641
+s949
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png
-c0000000053443D3000000000001EB088
-t1396981040
-s2011272
+c0000000053EA74AA0000000000025FBA
+t1407874218
+s155578
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png
-c0000000053443DA200000000000FBEB7
-t1396981154
-s1031863
+c0000000053EA749B0000000000018A57
+t1407874203
+s100951
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png
-c0000000053443DA800000000000C8FAE
-t1396981160
-s823214
+c0000000053EA74A200000000000166F9
+t1407874210
+s91897
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp
-c0000000053C9550E0000000000003CC0
-t1405703438
-s15552
+c0000000053EA76BB0000000000003D63
+t1407874747
+s15715
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Deffered_GBuffer_Prefix.pch
 c0000000053C7ED27000000000000012D
@@ -948,84 +528,84 @@ t1405611303
 s1122
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app
-t1405703660
+t1407874593
 s102
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Info.plist
-t1405626185
+t1407871648
 s1508
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer
-t1405703444
-s5172244
+t1407874754
+s5173072
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/PkgInfo
-t1405626185
+t1407871648
 s8
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/CinderApp.icns
-t1405615580
+t1407871648
 s459637
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.frag
-t1405626360
+t1407871648
 s162
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert
-t1405626360
+t1407871648
 s256
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg
-t1405703438
-s668849
+t1407871648
+s170777
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png
-t1405703438
-s2297516
+t1407871648
+s152147
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png
-t1405703438
-s1956581
+t1407871648
+s123471
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag
-t1405703723
-s3058
+t1407873792
+s3039
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert
-t1405626360
+t1407871648
 s282
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag
-t1405703660
-s1212
+t1407873792
+s1128
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert
-t1405703256
-s932
+t1407872641
+s949
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png
-t1405626360
-s2011272
+t1407874241
+s155578
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png
-t1405702757
-s1031863
+t1407874241
+s100951
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png
-t1405702757
-s823214
+t1407874241
+s91897
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBuffer.LinkFileList
-c0000000053C7FDDC000000000000013E
-t1405615580
+c0000000053EA6AA0000000000000013E
+t1407871648
 s318
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o
-t1405703440
-s3548276
+t1407874750
+s3549356
 
 N/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o
-t1405627635
+t1407871655
 s769456
 
 N/Users/destructor/Documents/cinderGameEngine/boost/boost/aligned_storage.hpp
@@ -5199,8 +4779,8 @@ t1403287859
 s33546904
 
 N/var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.pch
-t1405612370
-s69615516
+t1407871653
+s69615284
 
 CBuild AST from /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp
 r0
@@ -5210,11 +4790,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5dbf88ab8d79b941^c55589ab8d79b941^---0#1#1#--18"Check dependencies36"3FCE8D51-4EC1-4540-8319-C628DDE54A79-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies05c4d03bae9ab941^f278d63bae9ab941^---0#1#1#--18"Check dependencies36"85AABB9A-FEA0-45BA-AE3F-ECC31B53BE8F-
 
 CCompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s427396238.389602
-e427396240.695913
+s429567547.832185
+e429567550.701636
 r1
 xCompileC
 xbuild/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o
@@ -5240,12 +4820,12 @@ d/Users/destructor/Documents/cinderGameEngine/include/cinder/Perlin.h
 d/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.h
 d/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/include/Resources.h
 d/Users/destructor/Documents/cinderGameEngine/include/cinder/CinderResources.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp255"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler0fd6638e8c79b941^8d27b2908c79b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp0000000000000000^3477"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-generated-files.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-own-target-headers.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-project-headers.hmap -iquote../../../cinderGameEngine/include -iquote../include -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/include -I../../../cinderGameEngine/boost -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -include /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch -MMD -MT dependencies -MF /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.d --serialize-diagnostics /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.dia -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o36"9BBB3385-CF1C-43B5-B8EB-C3A731C38BE0-
-b9964A4F9-BA44-4DD7-8408-7791F68B1C47
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp255"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerea22d53bae9ab941^b6a0b33eae9ab941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp0000000000000000^3477"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-generated-files.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-own-target-headers.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-project-headers.hmap -iquote../../../cinderGameEngine/include -iquote../include -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/include -I../../../cinderGameEngine/boost -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -include /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch -MMD -MT dependencies -MF /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.d --serialize-diagnostics /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.dia -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/src/Deffered_GBufferApp.cpp -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBufferApp.o36"03D105D6-6029-4FA7-9612-C85A01038B1D-
+b5971AA12-1414-4486-8667-C73B4F17A1B1
 
 CCompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s427320434.512324
-e427320435.700550
+s429564453.408282
+e429564455.064342
 r1
 xCompileC
 xbuild/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o
@@ -5257,142 +4837,142 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp
 d/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.h
 d/Users/destructor/Documents/cinderGameEngine/include/cinder/gl/Fbo.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp168"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o GBuffer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilere23983726478b941^d657b3736478b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp0000000000000000^3344"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o GBuffer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-generated-files.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-own-target-headers.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-project-headers.hmap -iquote../../../cinderGameEngine/include -iquote../include -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/include -I../../../cinderGameEngine/boost -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -include /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch -MMD -MT dependencies -MF /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.d --serialize-diagnostics /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.dia -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o36"A9B42A9C-FE2C-473A-9620-25EC5E47A9BB-
-b12860C8B-387D-4F97-93F6-A027DA9A3D10
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp168"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o GBuffer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler0c946825a29ab941^147b1027a29ab941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp0000000000000000^3344"CompileC build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o GBuffer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-generated-files.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-own-target-headers.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-project-headers.hmap -iquote../../../cinderGameEngine/include -iquote../include -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/include -I../../../cinderGameEngine/boost -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -include /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch -MMD -MT dependencies -MF /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.d --serialize-diagnostics /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.dia -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/GBuffer.cpp -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/GBuffer.o36"A5DBF637-D253-43AA-B07E-7AD006CA9201-
+bD4861E15-E4D5-487F-B673-E1D07F844658
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns build/Debug/Deffered_GBuffer.app/Contents/Resources/CinderApp.icns
-s427308380.842849
-e427308380.844320
+s429564448.793269
+e429564448.795338
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/CinderApp.icns
-lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns161"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns build/Debug/Deffered_GBuffer.app/Contents/Resources/CinderApp.icns89d1d75c3578b941^80f0d95c3578b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns0000000000000000^547"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns build/Debug/Deffered_GBuffer.app/Contents/Resources/CinderApp.icns    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"47B42EDA-9C78-48A1-B0E6-01160FC783FA-
-bA36318CF-F041-41CB-B059-6C32E417CA88
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/CinderApp.icns161"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns build/Debug/Deffered_GBuffer.app/Contents/Resources/CinderApp.icnsdd23cb20a29ab941^ba9fcb20a29ab941^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/CinderApp.icns003474f9ddffdf42^547"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns build/Debug/Deffered_GBuffer.app/Contents/Resources/CinderApp.icns    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/CinderApp.icns /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"41CF7D54-7427-4BBA-A3F6-5163FB1770AF-
+bD4861E15-E4D5-487F-B673-E1D07F844658
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.frag
-s427319160.640798
-e427319160.641634
+s429564448.793259
+e429564448.796043
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.frag
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/debug.frag
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.frag153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.fragbd1aa4785f78b941^d6a7a4785f78b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.frag003474f9ddffdf42^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.frag    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.frag /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"EA8BB975-027E-4D87-B73F-A62BD2AC3EBB-
-b39292C20-3E07-45E4-8D20-8936CF3C3AFE
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.frag153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.fragb937cb20a29ab941^10cacb20a29ab941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.frag003474f9ddffdf42^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.frag    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.frag /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"89EDD119-5DBE-4D9E-86FD-C2192BCECF6C-
+bD4861E15-E4D5-487F-B673-E1D07F844658
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert
-s427319160.639999
-e427319160.641081
+s429564448.792383
+e429564448.793971
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vertf9f5a3785f78b941^4ca4a4785f78b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert003474f9ddffdf42^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"31C8D4A4-6BC7-4575-B7AA-58BA99E502D3-
-b39292C20-3E07-45E4-8D20-8936CF3C3AFE
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vertaaf1ca20a29ab941^7044cb20a29ab941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert003474f9ddffdf42^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/debug.vert    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/debug.vert /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"0C1C417E-4292-42F9-9B6F-8A7D0504F878-
+bD4861E15-E4D5-487F-B673-E1D07F844658
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg
-s427396238.369446
-e427396238.372462
+s429564448.790756
+e429564448.792038
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg159"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg76a45e8e8c79b941^755a5f8e8c79b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg003474f9ddffdf42^544"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"6A66065D-5EA1-46F9-8594-DC2FC83B5A37-
-b9964A4F9-BA44-4DD7-8408-7791F68B1C47
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg159"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpgfb76ca20a29ab941^15e1ca20a29ab941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg003474f9ddffdf42^544"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_DIFF.jpg    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_DIFF.jpg /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"B2EA9D24-EC68-4166-BC53-66B0E5161F7B-
+bD4861E15-E4D5-487F-B673-E1D07F844658
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png
-s427396238.370714
-e427396238.373574
+s429564448.793858
+e429564448.795333
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png157"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png3cf75e8e8c79b941^87a35f8e8c79b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png003474f9ddffdf42^541"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"E955D822-3EBA-4DBA-8406-60DDBC318D2D-
-b9964A4F9-BA44-4DD7-8408-7791F68B1C47
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png157"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png0950cb20a29ab941^8d9acb20a29ab941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png003474f9ddffdf42^541"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_NRM.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_NRM.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"887707D1-E9F4-4F29-BC15-AE0735C3F14E-
+bD4861E15-E4D5-487F-B673-E1D07F844658
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png
-s427396238.369527
-e427396238.373416
+s429564448.790938
+e429564448.792199
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png159"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png7ba35e8e8c79b941^85985f8e8c79b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png003474f9ddffdf42^544"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"F29E5249-4C1B-453E-93E8-6C083F7C9F56-
-b9964A4F9-BA44-4DD7-8408-7791F68B1C47
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png159"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png9889ca20a29ab941^f2ecca20a29ab941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png003474f9ddffdf42^544"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/foil_SPEC.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/foil_SPEC.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"8515BB49-A3B6-4E47-93A3-BA0D4E24D49C-
+bD4861E15-E4D5-487F-B673-E1D07F844658
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag
-s427396523.536850
-e427396523.537659
+s429566592.803553
+e429566592.804160
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag163"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.fragfb7789ab8d79b941^734c8eab8d79b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag0000000000000000^550"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"130C2C2B-AE41-4FF7-812F-EB5F753A3219-
-b0A3413A5-63F7-4880-A9AB-90899813D131
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag163"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag66bccd80aa9ab941^8db7d180aa9ab941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag0000000000000000^550"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.frag    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.frag /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"92AB0D6A-5292-43D8-B7DC-FD273B10B50E-
+bDC1FC125-3645-4715-8E1A-ACD55D59F38A
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert
-s427319160.641154
-e427319160.642013
+s429564448.793837
+e429564448.799354
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert163"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert8c31a4785f78b941^3baca4785f78b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert003474f9ddffdf42^550"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"AEF107B7-DA91-4C97-B961-58B1FAAE7EA4-
-b39292C20-3E07-45E4-8D20-8936CF3C3AFE
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert163"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vertfa47cb20a29ab941^fda2cc20a29ab941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert003474f9ddffdf42^550"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gLightPass.vert    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gLightPass.vert /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"C66E9E50-DF5F-4427-910C-C29C905EF942-
+bD4861E15-E4D5-487F-B673-E1D07F844658
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag
-s427396460.880621
-e427396460.881646
+s429566592.802414
+e429566592.803178
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag357ae16c8d79b941^b398e46c8d79b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag0000000000000000^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"B2D1E2B1-9AAC-4BAE-B91F-7B6E24A4B0EA-
-bC3D4E899-FBE1-422E-B2A0-54A83B278CA9
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag2576cd80aa9ab941^35b4d180aa9ab941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag0000000000000000^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.frag    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.frag /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"AA4A3349-309E-47A0-9D25-442C6B2D0EF6-
+bDC1FC125-3645-4715-8E1A-ACD55D59F38A
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert
-s427396056.115979
-e427396056.116945
+s429565441.968376
+e429565441.969391
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert51bd1dd88b79b941^c44023d88b79b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert0000000000000000^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"3FA0041F-5F3A-46D2-9C2A-0BC55AB5A726-
-bCADD46DA-4390-47B8-8A0A-F2A7758C62EB
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert153"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert94f5f701a69ab941^c768fd01a69ab941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert0000000000000000^535"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert build/Debug/Deffered_GBuffer.app/Contents/Resources/gPass.vert    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/gPass.vert /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"910D40D8-A78F-46E4-8065-982A2C07CBD5-
+bD1B8E19B-7961-4E66-AF3B-F08641883E29
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png
-s427319160.639814
-e427319160.642627
+s429567041.565318
+e429567041.566964
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png149"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png73daa3785f78b941^7db0a4785f78b941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png003474f9ddffdf42^529"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"9A3BB66D-0C19-4E8D-B381-092154277BD6-
-b39292C20-3E07-45E4-8D20-8936CF3C3AFE
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png149"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png40c29041ac9ab941^83a69141ac9ab941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png0000000000000000^529"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"51BEC592-190E-4C49-8B51-0717A203823E-
+bA8DA8325-DDB9-4545-A7F9-17784083955F
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png
-s427395557.849228
-e427395557.850819
+s429567041.565587
+e429567041.567252
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png157"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png8577d9e58979b941^fc19dae58979b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png003474f9ddffdf42^541"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"4AE66030-0CD3-4A87-918B-D78CA89C7C1E-
-bF47FFA5A-37D8-44F5-8949-76498E0804F2
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png157"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png7fda9041ac9ab941^75ad9141ac9ab941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png0000000000000000^541"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_NRM.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_NRM.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"94D224C0-C20F-4AF0-BF38-1549423BC494-
+bA8DA8325-DDB9-4545-A7F9-17784083955F
 
 CCpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png
-s427395557.848968
-e427395557.850509
+s429567041.565423
+e429567041.567102
 r1
 xCpResource
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png
 xbuild/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png159"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png1c5dd9e58979b941^5918dae58979b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png003474f9ddffdf42^544"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"A966954E-5BA7-4209-B845-92F9D9F10E99-
-bF47FFA5A-37D8-44F5-8949-76498E0804F2
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png159"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png07cf9041ac9ab941^71aa9141ac9ab941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png0000000000000000^544"CpResource /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png build/Debug/Deffered_GBuffer.app/Contents/Resources/rock_SPEC.png    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/resources/rock_SPEC.png /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Resources36"8EC8997A-E1A3-41EF-B31E-3047A83C2AAF-
+bA8DA8325-DDB9-4545-A7F9-17784083955F
 
 CLd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i386
-s427396240.697679
-e427396244.368798
+s429567550.704588
+e429567554.993274
 r1
 xLd
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer
@@ -5420,8 +5000,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
@@ -5451,6 +5029,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
@@ -5477,28 +5057,25 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer79"Ld build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i3869ca7b2908c79b941^556a5e948c79b941^---0#0#1#--1359"Ld build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i386    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -filelist /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBuffer.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinderGameEngine/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBuffer_dependency_info.dat -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer36"458DE2FE-A336-4250-BF18-3DC9EFAC7FC5-
-b9964A4F9-BA44-4DD7-8408-7791F68B1C47
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer79"Ld build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i3868e76b43eae9ab941^fe47fe42ae9ab941^---0#0#1#--1359"Ld build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer normal i386    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -filelist /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBuffer.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinderGameEngine/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Objects-normal/i386/Deffered_GBuffer_dependency_info.dat -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/MacOS/Deffered_GBuffer36"854C51C3-BC25-49BE-A3C6-D3F622E3D66A-
+b5971AA12-1414-4486-8667-C73B4F17A1B1
 
 CProcessInfoPlistFile /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Info.plist /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Info.plist
-s427318985.897628
-e427318985.899949
+s429564448.788691
+e429564448.790141
 r1
 xProcessInfoPlistFile
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Info.plist
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Process /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Info.plist84"ProcessInfoPlistFile build/Debug/Deffered_GBuffer.app/Contents/Info.plist Info.plistf9d8e5c95e78b941^041bebc95e78b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Info.plist0000000000000000^548"ProcessInfoPlistFile build/Debug/Deffered_GBuffer.app/Contents/Info.plist Info.plist    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-infoPlistUtility /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Info.plist -genpkginfo /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Info.plist36"9AF48FA1-80D8-4DDA-89B0-075376F97102-
-b0FF04626-0060-4638-BC91-6F5165B35A7D
-
-CProcessPCH++ /Users/destructor/Library/Developer/Xcode/DerivedData/Deffered_GBuffer-caecqbkphximeggivgttfczhgtxf/Index/PrecompiledHeaders/Deffered_GBuffer_Prefix-eibfygkjouivxgalubwekhcrexyd_ast/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Process /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Info.plist84"ProcessInfoPlistFile build/Debug/Deffered_GBuffer.app/Contents/Info.plist Info.plist5ff0c920a29ab941^0a64ca20a29ab941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Info.plist0000000000000000^548"ProcessInfoPlistFile build/Debug/Deffered_GBuffer.app/Contents/Info.plist Info.plist    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    builtin-infoPlistUtility /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Info.plist -genpkginfo /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app/Contents/Info.plist36"3A0BAA35-DE4E-4685-9C1A-25F6FDAEB089-
+bD4861E15-E4D5-487F-B673-E1D07F844658
 
 CProcessPCH++ /Users/destructor/Library/Developer/Xcode/DerivedData/Deffered_GBuffer-caecqbkphximeggivgttfczhgtxf/Index/PrecompiledHeaders/Deffered_GBuffer_Prefix-hcljgvwukqfobbgitesknpdyalnw_ast/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
 
 CProcessPCH++ /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s427305166.622596
-e427305170.557241
+s429564448.810366
+e429564453.405881
 r1
 xProcessPCH++
 x/var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.pch
@@ -6327,849 +5904,15 @@ d/Users/destructor/Documents/cinderGameEngine/include/cinder/Quaternion.h
 d/Users/destructor/Documents/cinderGameEngine/include/cinder/Ray.h
 d/Users/destructor/Documents/cinderGameEngine/include/cinder/geomIo.h
 d/Users/destructor/Documents/cinderGameEngine/include/cinder/PolyLine.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Precompile Deffered_GBuffer_Prefix.pch303"ProcessPCH++ /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler037c9fce2878b941^f8a98ed22878b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Deffered_GBuffer_Prefix.pch0000000000000000^3440"ProcessPCH++ /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-generated-files.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-own-target-headers.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-project-headers.hmap -iquote../../../cinderGameEngine/include -iquote../include -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/include -I../../../cinderGameEngine/boost -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug --serialize-diagnostics /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.d -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Deffered_GBuffer_Prefix.pch -o /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.pch36"821130F0-1B7E-4D81-BEDC-ECFBB2FAEDD5-
-b7463E50E-324E-4252-9A39-11DF807F8E7D
-
-CProcessPCH++ /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/6.0-6A215l/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-gsaootwqkxwwlqfjjhqrqlqrkugz/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s427308380.844941
-e427308385.486755
-r1
-xProcessPCH++
-x/var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/6.0-6A215l/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-gsaootwqkxwwlqfjjhqrqlqrkugz/Deffered_GBuffer_Prefix.pch.pch
-xDeffered_GBuffer_Prefix.pch
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Deffered_GBuffer_Prefix.pch
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Cinder.h
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/version.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/checked_delete.hpp
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/app/AppBasic.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/app/App.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/app/Renderer.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Exception.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/MatrixStack.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Matrix.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/CinderMath.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Matrix22.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Vector.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/MatrixAffine2.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Matrix33.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Matrix44.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/MatrixAlgo.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Surface.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Area.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Channel.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/ChanTraits.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Color.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Filesystem.h
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/filesystem.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/filesystem/config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/user.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/select_compiler_config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/compiler/clang.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/select_stdlib_config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/no_tr1/utility.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/stdlib/libcpp.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/select_platform_config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/platform/macos.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/posix_features.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/suffix.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/system/api_config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/workaround.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/auto_link.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/filesystem/path.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/filesystem/path_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/enable_if.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_array.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/bool_trait_def.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/template_arity_spec.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/int.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/int_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/adl_barrier.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/adl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/msvc.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/intel.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/gcc.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/workaround.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/nttp_decl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/nttp.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/integral_wrapper.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/integral_c_tag.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/static_constant.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/static_cast.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/cat.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/config/config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/template_arity_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessor/params.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/preprocessor.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/comma_if.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/punctuation/comma_if.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/control/if.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/control/iif.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/logical/bool.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/facilities/empty.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/punctuation/comma.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repeat.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/repeat.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/debug/error.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/detail/auto_rec.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/tuple/eat.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/inc.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/arithmetic/inc.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/lambda.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/ttp.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/ctps.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/overload_resolution.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/integral_constant.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/bool.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/bool_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/integral_c.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/integral_c_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/lambda_support.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/bool_trait_undef.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/decay.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_function.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_reference.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_lvalue_reference.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_rvalue_reference.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/ice.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/yes_no_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/ice_or.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/ice_and.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/ice_not.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/ice_eq.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/false_result.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/is_function_ptr_helper.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/remove_bounds.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/type_trait_def.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/type_trait_undef.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/add_pointer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/remove_reference.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/broken_compiler_spec.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/eval_if.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/if.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/value_wknd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/integral.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/eti.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/na_spec.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/lambda_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/void_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/na.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/na_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/lambda_arity_param.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/arity.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/dtp.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessor/enum.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessor/def_params_tail.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/limits/arity.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/logical/and.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/logical/bitand.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/identity.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/facilities/identity.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/empty.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/arithmetic/add.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/arithmetic/dec.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/control/while.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/list/fold_left.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/list/detail/fold_left.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/control/expr_iif.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/list/adt.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/detail/is_binary.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/detail/check.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/logical/compl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/list/fold_right.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/list/detail/fold_right.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/list/reverse.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/control/detail/while.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/tuple/elem.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/facilities/overload.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/variadic/size.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/tuple/rem.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/variadic/elem.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/arithmetic/sub.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/identity.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/system/error_code.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/system/config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/cstdint.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/assert.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/current_function.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/operators.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/noncopyable.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/cerrno.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/abi_prefix.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/abi_suffix.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/system/system_error.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/iterator_facade.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/interoperable.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/or.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/use_preprocessed.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/nested_type_wknd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/include_preprocessed.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/compiler.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/stringize.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/or.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_convertible.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/intrinsics.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_same.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_volatile.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/cv_traits_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_abstract.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/detail/config_def.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/detail/config_undef.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/iterator_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/detail/facade_iterator_category.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/iterator_categories.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/placeholders.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/arg.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/arg_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/na_assert.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/assert.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/not.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/yes_no.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/arrays.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/pp_counter.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/arity_spec.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/arg_typedef.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/arg.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/static_assert.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/and.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/and.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_const.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/indirect_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_pointer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_member_pointer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_member_function_pointer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/remove_cv.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_class.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/remove_pointer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/detail/enable_if.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/addressof.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/add_const.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/remove_const.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_pod.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_void.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_scalar.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_arithmetic.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_integral.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_float.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_enum.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/always.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/apply.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/apply_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/apply_wrap.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/has_apply.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/has_xxx.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/type_wrapper.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/has_xxx.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/msvc_typename.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/array/elem.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/array/data.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/array/size.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/enum_params.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/enum_trailing_params.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/has_apply.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/msvc_never_true.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/lambda.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/bind.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/bind_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/bind.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/next.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/next_prior.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/common_name_wknd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/protect.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/bind.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/full_lambda.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/quote.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/void.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/has_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/bcc.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/quote.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/template_arity.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/apply.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/shared_ptr.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/shared_ptr.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/no_tr1/memory.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/throw_exception.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/shared_count.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/bad_weak_ptr.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/sp_counted_base.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/sp_has_sync.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/sp_typeinfo.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/sp_counted_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/sp_convertible.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/sp_nullptr_t.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/spinlock_pool.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/spinlock.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/spinlock_sync.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/yield_k.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/memory_order.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/detail/operator_bool.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/io/detail/quoted_manip.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/io/ios_state.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/io_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/functional/hash_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/functional/hash/hash_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/filesystem/operations.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/scoped_enum_emulation.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/bitmask.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/filesystem/convenience.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/logic/tribool.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/logic/tribool_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Display.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Function.h
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/deconstruct.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/deconstruct_ptr.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/postconstructible.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/predestructible.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/alignment_of.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/size_t_trait_def.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/size_t.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/size_t_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/detail/size_t_trait_undef.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/type_with_alignment.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/list/for_each_i.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/for.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/detail/for.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/tuple/to_list.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/list/transform.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/list/append.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/dummy_mutex.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/last_value.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/optional.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/optional/optional.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/has_nothrow_constructor.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/has_trivial_constructor.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/reference_content.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/has_nothrow_copy.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/has_trivial_copy.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/none.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/none_t.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/swap.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/compare_pointees.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/in_place_factory.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/detail/in_place_factory_prefix.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/punctuation/paren.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/iteration/iterate.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/slot/slot.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/slot/detail/def.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/enum.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/enum_binary_params.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/iteration/detail/iter/forward1.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/iteration/detail/bounds/lower1.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/slot/detail/shared.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/iteration/detail/bounds/upper1.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/detail/in_place_factory_suffix.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/optional/optional_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/expired_slot.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/signal.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/function.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/iterate.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/function/detail/prologue.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/config/no_tr1/functional.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/function/function_base.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/integer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/integer_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/limits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/integer_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/has_trivial_destructor.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/composite_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_union.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/ref.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/function_equal.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/function/function_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mem_fn.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/mem_fn.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/get_pointer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/mem_fn_template.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/mem_fn_cc.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/enum.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/enum_params.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/function/detail/function_iterate.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/function/detail/maybe_include.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/function/function_template.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/no_exceptions_support.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/connection.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/null_output_iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/function_output_iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/unique_lock.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/slot.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/bind.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/is_placeholder.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/arg.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/visit_each.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/storage.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/bind_template.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/bind_cc.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/bind_mf_cc.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/bind_mf2_cc.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/bind/placeholders.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/signals_common.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/signal_base.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_base_of.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_base_and_derived.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/signals_common_macros.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/tracked_objects_visitor.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/slot_base.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/weak_ptr.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/weak_ptr.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/foreign_ptr.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/scoped_ptr.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/smart_ptr/scoped_ptr.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/apply_visitor.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/apply_visitor_unary.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/generic_result_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/apply_visitor_binary.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/apply_visitor_delayed.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/variant.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/variant_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/blank_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/enum_shifted_params.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/enum_shifted_params.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/limits/list.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/substitute_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/backup_holder.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/enable_recursive_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/forced_return.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/initializer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/call_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/call_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/recursive_wrapper_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/move.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/move/move.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/move/detail/config_begin.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/move/utility.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/move/core.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/move/detail/config_end.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/move/detail/meta_utils.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/move/iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/move/traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_nothrow_move_constructible.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/has_trivial_move_constructor.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/declval.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/add_rvalue_reference.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_nothrow_move_assignable.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/has_trivial_move_assign.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/has_nothrow_assign.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/has_trivial_assign.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/move/algorithm.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/iter_fold.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/begin_end.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/begin_end_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/begin_end_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/sequence_tag_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/has_begin.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/traits_lambda_spec.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/sequence_tag.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/has_tag.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/is_msvc_eti_arg.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/O1_size.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/O1_size_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/O1_size_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/long.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/long_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/has_size.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/forwarding.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/iter_fold_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/iter_fold_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/deref.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/msvc_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/pair.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/msvc_eti_base.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/make_variant_list.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/list20.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/list10.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/list0.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/push_front.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/push_front_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/item.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/tag.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/pop_front.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/pop_front_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/push_back.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/push_back_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/front.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/front_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/clear.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/clear_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/O1_size.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/size.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/size_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/empty.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/empty_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/begin_end.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/iterator_tags.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/lambda_spec.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/include_preprocessed.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/preprocessed/plain/list10.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/list/aux_/preprocessed/plain/list20.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/list.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/over_sequence.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/visitation_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/cast_storage.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/hash_variant.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/static_visitor.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/aligned_storage.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/blank.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/templated_streams.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_empty.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/add_reference.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_stateless.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/math/common_factor_ct.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/math_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/empty.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/empty_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/find_if.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/find_if_pred.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/iter_apply.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/iter_fold_if.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/logical.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/iter_fold_if_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/iter_fold_if_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/fold.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/fold_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/fold_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/front.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/front_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/is_sequence.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/iterator_range.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/max_element.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/less.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/comparison_op.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/numeric_op.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/numeric_cast.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/tag.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/numeric_cast_utils.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/less.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/push_front.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/push_front_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/same_as.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/sizeof.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/transform.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/reverse_fold.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/reverse_fold_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/reverse_fold_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/pair_view.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/iterator_category.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/advance.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/advance_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/negate.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/advance_forward.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/advance_forward.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/advance_backward.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/prior.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessed/gcc/advance_backward.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/distance.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/distance_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/min_max.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/inserter_algorithm.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/back_inserter.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/push_back.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/push_back_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/inserter.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/front_inserter.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/clear.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/clear_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/preprocessor/default_params.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/variant/detail/variant_io.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/trackable.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/variadic_slot.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/variadic_arg_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/slot_template.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/replace_slot_function.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/result_type_wrapper.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/slot_groups.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/slot_call_iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/auto_buffer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/reverse_iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/next_prior.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/iterator_adaptor.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/multi_index/detail/scope_guard.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/swap.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/aligned_storage.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/optional_last_value.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/mutex.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/lwm_pthreads.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/variadic_signal.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/control/expr_if.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/variadic_slot_invoker.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/function_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/detail/signal_template.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/signal_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/parameters.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/is_xxx.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/enum_shifted.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/elem.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/facilities/intercept.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/arg_list.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/void.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/result_of0.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/result_of.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/detail/result_of_iterate.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/default.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/parameter_requirements.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/yesno.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/is_maybe.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/begin.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/end.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/unwrap_cv_reference.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/tagged_argument.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/tag.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/template_keyword.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/set.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/insert.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/insert_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/insert_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/set0.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/at_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/at_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/has_key_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/tag.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/has_key_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/overload_names.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/ptr_to_ref.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/config/operators.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/clear_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/set0.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/size_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/empty_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/insert_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/item.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/base.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/erase_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/erase_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/erase_key_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/erase_key_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/key_type_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/key_type_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/value_type_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/value_type_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/begin_end_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/set/aux_/iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/has_key.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/mpl/aux_/has_key_impl.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/overloads.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/keyword.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/binding.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/value_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/macros.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/repeat_from_to.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/match.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/enum.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/size.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/name.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/preprocessor.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/parenthesized_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/cast.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/preprocessor/flatten.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/for_each.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/seq.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/for_each_i.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/selection/max.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/comparison/less_equal.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/logical/not.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/enum_trailing.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/parameter/aux_/preprocessor/for_each.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/detail/split.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/facilities/is_empty.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/for.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/repetition/deduce_r.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/comparison/equal.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/comparison/not_equal.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/first_n.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/detail/split.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/for_each_product.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/fold_left.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/seq/push_back.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/detail/is_nullary.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/signals2/shared_connection_block.hpp
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/app/Window.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Rect.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/app/MouseEvent.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/app/Event.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/app/TouchEvent.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/app/KeyEvent.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/app/FileDropEvent.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/DataSource.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Url.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Stream.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Buffer.h
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/concepts.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/categories.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/default_arg.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/ios.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/config/wide_streams.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/positioning.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/config/codecvt.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/config/fpos.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/config/disable_warnings.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/config/enable_warnings.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/stream.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/constants.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/char_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/config/overload_resolution.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/config/gcc.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/forward.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/config/limits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/push_params.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/iostream.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/select.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/stream_buffer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/streambuf/direct_streambuf.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/error.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/execute.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/iteration/local.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/preprocessor/iteration/detail/local.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/functional.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/close.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/flush.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/dispatch.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/bool_trait_def.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/template_params.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/is_iterator_range.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/select_by_size.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/wrap_unwrap.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/enable_if_stream.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/traits_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/iterator_range.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/iterator_range_core.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/functions.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/begin.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/config.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/mutable_iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/detail/extract_optional_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/const_iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/end.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/detail/implementation_help.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/detail/common.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/detail/sfinae.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/size.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/size_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/difference_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/make_unsigned.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_signed.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/is_unsigned.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/add_volatile.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/distance.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/empty.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/rbegin.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/reverse_iterator.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/rend.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/algorithm/equal.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/concepts.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/concept_check.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/concept/assert.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/concept/detail/general.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/concept/detail/backward_compatibility.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/concept/detail/has_constraints.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/type_traits/conversion_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/concept/usage.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/concept/detail/concept_def.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/concept/detail/concept_undef.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iterator/iterator_concepts.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/value_type.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/detail/misc_concept.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/detail/safe_bool.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/range/iterator_range_io.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/streambuf.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/operations_fwd.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/adapter/non_blocking_adapter.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/read.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/char_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/seek.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/write.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/optional.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/streambuf/linked_streambuf.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/operations.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/imbue.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/input_sequence.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/optimal_buffer_size.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/output_sequence.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/streambuf/indirect_streambuf.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/adapter/concept_adapter.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/call_traits.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/config/unreachable_return.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/device/null.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/buffer.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/checked_operations.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/get.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/put.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/double_object.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/push.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/adapter/range_adapter.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/pipeline.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/resolve.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/detail/is_incrementable.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/adapter/mode_adapter.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/adapter/output_iterator_adapter.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/detail/is_dereferenceable.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/iostreams/device/array.hpp
-d/Users/destructor/Documents/cinderGameEngine/boost/boost/utility/base_from_member.hpp
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Timer.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Thread.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/cocoa/CinderCocoa.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Shape2d.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Path2d.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/BSpline.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/ImageIo.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/DataTarget.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/gl/gl.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/gl_core.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_type.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_exts.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_1_0.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_1_1.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_1_2.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_1_3.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_1_4.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_1_5.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_2_0.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_2_1.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_3_0.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_3_1.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_3_2.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_3_3.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_4_0.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_4_3.h
-d/Users/destructor/Documents/cinderGameEngine/include/glload/_int_gl_4_4.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/gl/Texture.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Camera.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Quaternion.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/Ray.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/geomIo.h
-d/Users/destructor/Documents/cinderGameEngine/include/cinder/PolyLine.h
-lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Precompile /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Deffered_GBuffer_Prefix.pch301"ProcessPCH++ /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/6.0-6A215l/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-gsaootwqkxwwlqfjjhqrqlqrkugz/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler2e75d85c3578b941^1b9c7c613578b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Deffered_GBuffer_Prefix.pch0000000000000000^3220"ProcessPCH++ /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/6.0-6A215l/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-gsaootwqkxwwlqfjjhqrqlqrkugz/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-generated-files.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-own-target-headers.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-project-headers.hmap -iquote../../../cinderGameEngine/include -iquote../include -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/include -I../../../cinderGameEngine/boost -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug -MMD -MT dependencies -MF /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/6.0-6A215l/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-gsaootwqkxwwlqfjjhqrqlqrkugz/Deffered_GBuffer_Prefix.pch.d -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Deffered_GBuffer_Prefix.pch -o /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/6.0-6A215l/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-gsaootwqkxwwlqfjjhqrqlqrkugz/Deffered_GBuffer_Prefix.pch.pch36"B2FC543E-FDAB-4836-82F9-ABAA6046715C-
-bA36318CF-F041-41CB-B059-6C32E417CA88
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Precompile Deffered_GBuffer_Prefix.pch303"ProcessPCH++ /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler6e86cf20a29ab941^eee86725a29ab941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Deffered_GBuffer_Prefix.pch0000000000000000^3440"ProcessPCH++ /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.pch Deffered_GBuffer_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-generated-files.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-own-target-headers.hmap -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/Deffered_GBuffer-project-headers.hmap -iquote../../../cinderGameEngine/include -iquote../include -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/include -I../../../cinderGameEngine/boost -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Deffered_GBuffer.build/Debug/Deffered_GBuffer.build/DerivedSources -F/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug --serialize-diagnostics /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.d -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/Deffered_GBuffer_Prefix.pch -o /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Deffered_GBuffer_Prefix-cjirpytxpcyibigdmuiilguyxoyi/Deffered_GBuffer_Prefix.pch.pch36"6A8524C8-6C6F-4D23-8C04-D80C6D993C33-
+bD4861E15-E4D5-487F-B673-E1D07F844658
 
 CTouch /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app
-s427396523.551188
-e427396523.555672
+s429567554.994260
+e429567554.998860
 r1
 xTouch
 x/Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Touch /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app38"Touch build/Debug/Deffered_GBuffer.app302a8dab8d79b941^d8828eab8d79b941^---0#0#1#--231"Touch build/Debug/Deffered_GBuffer.app    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app36"408D2AF9-FCDE-4FDA-97FE-02EDE7EC0EC4-
-b0A3413A5-63F7-4880-A9AB-90899813D131
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Touch /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app38"Touch build/Debug/Deffered_GBuffer.app3291fe42ae9ab941^d8b7ff42ae9ab941^---0#0#1#--231"Touch build/Debug/Deffered_GBuffer.app    cd /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderDevApps/Deffered_GBuffer/xcode/build/Debug/Deffered_GBuffer.app36"B4646178-F220-454C-A670-655A1DC31D07-
+b5971AA12-1414-4486-8667-C73B4F17A1B1
 
